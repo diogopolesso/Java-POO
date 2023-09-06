@@ -3,13 +3,17 @@
           
 ****
 
-- 
+- Linguagem Java;
 
-- 
+- Classes e Objetos;
 
-- 
+- Visibilidade;
 
-- 
+- Herança;
+
+- Polimorismo;
+
+- Tratamento de Exceções.
 
 ****
 
